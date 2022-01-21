@@ -1,0 +1,132 @@
+.u-section-1 {
+  background-image: url("images/russ-ward-bqzLehtF8XE-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 273px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(128,128,128,1);
+  animation-duration: 1000ms;
+  margin: 137px 508px 58px 44px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 32px;
+    margin-right: 352px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 172px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 25px;
+    margin-right: 132px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 129px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 19px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 81px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 12px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 997px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 71px 802px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 0.875rem;
+  line-height: 1.7;
+  margin: 41px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 602px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 382px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 202px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 2px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 810px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  margin: 19px 863px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 0.875rem;
+  line-height: 1.7;
+  margin: 41px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 663px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 443px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 263px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    margin-right: 63px;
+  }
+}
